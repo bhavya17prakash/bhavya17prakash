@@ -91,18 +91,6 @@ For more details, visit my [LinkedIn](https://www.linkedin.com/in/bhavya-prakash
 
 ---
 
-## 🎓 Education
-
-### **Northeastern University** | Boston, MA  
-*Master of Science in Information Systems*  
-*Sep 2022 – Aug 2024*
-
-### **Patna University** | Patna, India  
-*Bachelor’s in Computer Application*  
-*Jul 2018 – May 2021*
-
----
-
 ## 🚀 Let's Connect!
 Feel free to explore my work and reach out for collaboration or inquiries!  
 
