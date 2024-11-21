@@ -53,18 +53,15 @@ I'm adept at leveraging modern frameworks and cloud platforms like **React**, **
 
 ## 🏢 Work Experience Highlights
 
-### **One Community Global** | Software Engineer  
-*Oct 2024 – Present*  
+### **One Community Global** | Software Engineer | *Oct 2024 – Present*  
 - Revamped internal dashboard UI using **React** and **Redux**, increasing user engagement by 25%.  
 - Reviewed 50+ frontend/backend pull requests, reducing bug incidence by 30%.  
 
-### **Philips** | Software Engineer Co-op  
-*May 2023 – Jan 2024*  
+### **Philips** | Software Engineer Co-op | *May 2023 – Jan 2024*  
 - Developed a data visualization tool in **React** for real-time monitoring, boosting efficiency by 40%.  
 - Automated testing with **Java**, **Selenium**, and **Cucumber**, cutting manual testing by 55%.  
 
-### **Zocdoc** | Software Engineer  
-*Mar 2021 – Jul 2022*  
+### **Zocdoc** | Software Engineer | *Mar 2021 – Jul 2022*  
 - Designed RESTful APIs using **Spring Boot** and **PostgreSQL**, driving a 17% revenue increase.  
 - Deployed applications on **AWS** using **Docker** and **Kubernetes**, enhancing scalability.  
 
@@ -74,18 +71,15 @@ For more details, visit my [LinkedIn](https://www.linkedin.com/in/bhavya-prakash
 
 ## 📚 Featured Projects
 
-### **Cloud Native Webapp**  
-*Technologies: DevOps, GCP, Terraform, CI/CD*  
+### **Cloud Native Webapp** | *Technologies: DevOps, GCP, Terraform, CI/CD*  
 - Created a user management application using **Node.js** and **React** with cloud services.  
 - Built resilient infrastructure with **Terraform**, incorporating auto-scaling and load balancing.
 
-### **Spring Boot E-Commerce Platform**  
-*Technologies: Spring Boot, MySQL, Stripe API*  
+### **Spring Boot E-Commerce Platform** | *Technologies: Spring Boot, MySQL, Stripe API*  
 - Developed inventory management and secure payment integration via **Stripe API**.  
 [GitHub Repository](https://github.com/bhavya17prakash/Spring_Boot_E-Commerce_Website)
 
-### **NU Chronicles**  
-*Technologies: React, Node.js, MongoDB*  
+### **NU Chronicles** | *Technologies: React, Node.js, MongoDB*  
 - Full-stack development featuring authentication with **JWT** and **bcrypt.js**.  
 [GitHub Repository](https://github.com/makarandmadhavi/NU-Chronicles)
 
