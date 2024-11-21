@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💻 Bhavya Prakash
 
-📧 [prakashbhavya538@gmail.com](mailto:prakashbhavya538@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/) | [Portfolio](https://bhavya17prakash.github.io/) 
+📧 [prakash.b@northeastern.edu](mailto:prakash.b@northeastern.edu) 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/) | [Portfolio](https://bhavya17prakash.github.io/) 
 
 ---
 
@@ -106,6 +106,6 @@ For more details, visit my [LinkedIn](https://www.linkedin.com/in/bhavya-prakash
 ## 🚀 Let's Connect!
 Feel free to explore my work and reach out for collaboration or inquiries!  
 
-📧 [Email](mailto:prakashbhavya538@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/)  
+📧 [Email](mailto:prakash.b@northeastern.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/)  
 
 ---
