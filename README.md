@@ -71,17 +71,15 @@ For more details, visit my [LinkedIn](https://www.linkedin.com/in/bhavya-prakash
 
 ## 📚 Featured Projects
 
-### **Cloud Native Webapp** | *Technologies: DevOps, GCP, Terraform, CI/CD*  
-- Created a user management application using **Node.js** and **React** with cloud services.  
+### **Cloud Native Webapp** | *Technologies: DevOps, GCP, Terraform, CI/CD* | [GitHub Repository](https://github.com/orgs/BhavyaCloudCourse/repositories)  
 - Built resilient infrastructure with **Terraform**, incorporating auto-scaling and load balancing.
 
-### **Spring Boot E-Commerce Platform** | *Technologies: Spring Boot, MySQL, Stripe API*  
+### **Spring Boot E-Commerce Platform** | *Technologies: Spring Boot, MySQL, Stripe API* | [GitHub Repository](https://github.com/bhavya17prakash/Spring_Boot_E-Commerce_Website)
 - Developed inventory management and secure payment integration via **Stripe API**.  
-[GitHub Repository](https://github.com/bhavya17prakash/Spring_Boot_E-Commerce_Website)
 
-### **NU Chronicles** | *Technologies: React, Node.js, MongoDB*  
+### **NU Chronicles** | *Technologies: React, Node.js, MongoDB*  | [GitHub Repository](https://github.com/makarandmadhavi/NU-Chronicles)
 - Full-stack development featuring authentication with **JWT** and **bcrypt.js**.  
-[GitHub Repository](https://github.com/makarandmadhavi/NU-Chronicles)
+
 
 ---
 
