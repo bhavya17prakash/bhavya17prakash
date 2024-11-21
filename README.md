@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💻 Bhavya Prakash
 
-🌍 **Boston, MA**  
-📧 [prakashbhavya538@gmail.com](mailto:prakashbhavya538@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/) | [Portfolio](https://bhavya17prakash.github.io/) 
+📧 [prakashbhavya538@gmail.com](mailto:prakashbhavya538@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/bhavya-prakash/) | [Portfolio](https://bhavya17prakash.github.io/) 
 
 ---
 
@@ -28,23 +26,32 @@ I'm adept at leveraging modern frameworks and cloud platforms like **React**, **
 ---
 
 ## 🛠️ Skills
-
-### Programming Languages
-- **Java**, **JavaScript**, **C++**, **C**, **SQL**
-
-### Frameworks & Tools
-- **React**, **Node.js**, **Spring Boot**, **Hibernate**
-- **Docker**, **Kubernetes**, **Terraform**, **Azure DevOps**
-
-### Databases
-- **MySQL**, **PostgreSQL**, **MongoDB**
-
-### Automation & Testing
-- **Selenium**, **Cucumber**, **Cypress**, **Postman**, **JUnit**
-
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23005DFF.svg?style=flat&logo=hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=flat&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7.svg?style=flat&logo=azure-devops&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-%2332B652.svg?style=flat&logo=cucumber&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2300CCFF.svg?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%25A9A.svg?style=flat&logo=junit5&logoColor=white)
 ---
 
-## 🏢 Work Experience
+## 🏢 Work Experience Highlights
 
 ### **One Community Global** | Software Engineer  
 *Oct 2024 – Present*  
